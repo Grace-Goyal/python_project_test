@@ -1,2 +1,2 @@
 # python_project_test
-it is a practice file 
+this file contains a project with python , for data science 
